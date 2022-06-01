@@ -1,0 +1,64 @@
+.front{text-align: center;}
+.navigate{background-color:rgb(155, 221, 247);}
+ ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+    
+    }
+    li {
+        display:inline;
+        width: auto;
+        margin-left: 15%;
+    
+    }
+    .jjj{text-align: center;}
+        
+    
+    
+    .abou{
+        position: relative;
+        text-align: center;
+        color: rgb(255, 58, 179);
+
+    }
+    .centered{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .contact{text-align: center;}
+    .aaa{text-align: center;}
+    .phn{text-align: center;}
+    .email{text-align:center ;}
+    .ppp{text-align: center;
+        color: #000;
+    }
+    .p1{
+        float: left;
+        width: 30%;
+        padding: 5px;
+        
+    }
+    .placement::after{
+        content: "";
+        clear: both;
+        display:table;
+    }
+    .l1{
+        float: left;
+        width: 30%;
+        padding: 5px;
+        
+    }
+    .lang::after{
+
+        content: "";
+        clear: both;
+        display:table;
+    }
+    
+       
+    
+    
